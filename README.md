@@ -3,7 +3,7 @@
 ## EST TIME: 2hrs
 1. [Random Imager](random-imager.md)
 
-## Read/Watch: EST TIME: 1hr 
+## Read/Watch: EST TIME: 20min 
  - Do: [FreeCodeCamp: Complete the jQuery Section](https://learn.freecodecamp.org/front-end-libraries/jquery) - 20min
  
 ## How to submit homework
