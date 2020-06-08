@@ -2,7 +2,6 @@
 
 ## EST TIME: 2hrs
 1. [Random Imager](random-imager.md)
-2. Follow the instructions in that repo
 
 ## Read/Watch: EST TIME: 1hr 
  - Do: [FreeCodeCamp: Complete the jQuery Section](https://learn.freecodecamp.org/front-end-libraries/jquery) - 20min
