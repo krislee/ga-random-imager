@@ -54,7 +54,7 @@ const tarot = () => {
     $img.on('click', () => {
       $img.remove()
     })
-    // cards.splice(randomNum,1)
+    cards.splice(randomNum,1)
     console.log(cards)
   }
 }
