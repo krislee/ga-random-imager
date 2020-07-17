@@ -13,41 +13,4 @@
     <button>Submit</button>
     <div class="flex"></div>
 </body>
-<!-- 
-    $('button').on('click', () => {
-    if ($('[name="imgURL"]').val()) {
-        cards.push($('[name="imgURL"]').val())
-        $('[name="imgURL"]').val('') 
-        return cards
-    } else {
-        console.log("no URL")
-        return cards
-    }
-}) 
-  
-
-const renderCard = () => {
-    if(cards.length>0){
-        const randomNumber = Math.floor(Math.random()*cards.length)
-        const $newDiv = $('<div>').addClass('newDivs')
-        $newDiv.css('background-image', `url(${cards[randomNumber]})`)
-        $('.flex').append($newDiv)
-        $newDiv.on('click', (e) => {
-            $newDiv.remove()
-            //or do e.target.remove()
-        })
-        // $newDiv.on('click', (e) => {
-        //.css() and .hide() works with jQuery objects, not e.target
-        //since e.target is a regular object
-        //     $newDiv.css('display', 'none')
-        //      $newDiv.hide()
-        //     console.log(e.target)
-        //     console.log($newDiv)
-        // })
-        cards.splice(randomNumber, 1)
-        console.log(cards)
-    }  
-}
-$addDiv.on('click', renderCard)
- -->
 </html>

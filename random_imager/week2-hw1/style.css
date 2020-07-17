@@ -17,10 +17,8 @@ button {
     background-color: black;
     /* width: 300px;
     height: 500px; */
-    /* width: 150px;
-    height: 250px; */
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 250px;
     color: white;
     text-align: center;
     margin: 10px;
@@ -32,19 +30,9 @@ button {
 .para {
     font-size: 30px;
 }
-/* .newDivs {
-    background-color: black;
-    width: 300px;
-    height: 500px; 
-    width: 150px;
-    height: 250px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    margin: 10px; 
-} */
 
 img {
-    width:100px;
-    height: 100px;
+    width: 150px;
+    height: 250px;
     margin: 10px;
 }
